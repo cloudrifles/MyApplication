@@ -1,0 +1,4 @@
+MyApplication
+=============
+
+android on mac
